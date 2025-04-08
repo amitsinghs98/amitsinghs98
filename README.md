@@ -10,7 +10,7 @@ I regularly write about DevOps, automation, and cloud technologies. Stay updated
 
 ## 📫 How to Reach Me  
 ✉️ Email: amitsinghdeora98@gmail.com  
-💼 LinkedIn: **[Amit Singh Deora]https://www.linkedin.com/in/amit-singh-deora-08741b172/**  
+💼 LinkedIn: **[Amit Singh Deora](https://www.linkedin.com/in/amit-singh-deora-08741b172/)**  
 
 ## 📄 My Experience  
 Know more about my journey: [Resume]
@@ -19,8 +19,8 @@ Know more about my journey: [Resume]
 🔗  **[LinkedIn](https://www.linkedin.com/in/amit-singh-deora-08741b172/)**  
 
 ## ⚡ Technologies & Tools  
-🚀 **Cloud & Infrastructure**: AWS, Azure
+🚀 **Cloud & Infrastructure**: AWS
 🐧 **OS & Scripting**: Linux, Bash, Python  
-🔧 **DevOps & Automation**: Docker, Kubernetes, Jenkins, Terraform, Ansible, CircleCI, ArgoCD  
-💾 **Databases**: MySQL, PostgreSQL, MongoDB  
-🖥️ **Development**: Git, JavaScript, Django  
+🔧 **DevOps & Automation**: Docker, Kubernetes, Jenkins, Terraform, Ansible, GitlabCI, ArgoCD  
+💾 **Databases**: MySQL, DynamoDB, MongoDB  
+🖥️ **Development**: Git, Python
