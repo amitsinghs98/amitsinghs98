@@ -13,14 +13,32 @@ I regularly write about DevOps, automation, and cloud technologies. Stay updated
 💼 LinkedIn: **[Amit Singh Deora](https://www.linkedin.com/in/amit-singh-deora/)**  
 
 ## 📄 My Experience  
-Know more about my journey: [Resume](https://drive.google.com/file/d/1W1lIdyGurw49qg0uCMnrNGgWqnb3V1VM/view?usp=sharing)
+Know more about my journey: [Resume](https://drive.google.com/file/d/1rX6vYrQRdwmicZx4UGHG3IneQzqLKn0O/view?usp=sharing)
 
 ## 🌐 Connect with Me  
 🔗  **[LinkedIn](https://www.linkedin.com/in/amit-singh-deora/)**  
 
 ## ⚡ Technologies & Tools  
-🚀 **Cloud & Infrastructure**: AWS
-🐧 **OS & Scripting**: Linux, Bash, Python  
-🔧 **DevOps & Automation**: Docker, Kubernetes, Jenkins, Terraform, Ansible, GitlabCI, ArgoCD  
-💾 **Databases**: MySQL, DynamoDB, MongoDB  
-🖥️ **Development**: Git, Python
+📖 Tech Stack
+🧰 Tools & Technologies
+🛰️ Networking: Subnetting, VPC, Subnet, Load Balancer, Route 53
+☁️ Cloud Platforms: AWS
+🛠️ Infrastructure as Code (IaC): Terraform, Ansible
+⚙️ Configuration Management: Ansible
+🐍 Scripting: Python, Shell/Bash
+🐳 Containerization: Docker
+☸️ Container Orchestration: Kubernetes, Amazon ECS, EKS
+📊 Monitoring & Logging: CloudWatch, Prometheus, Grafana, ELK Stack
+🔁 CI Tools: Jenkins, GitLab CI, GitHub Actions
+🚀 CD Tools: ArgoCD
+🔐 Security: IAM, SSH, KMS, VPN, Firewall
+🔄 DevOps Methodology
+🔧 DevOps Culture: CI (Continuous Integration), CD (Continuous Delivery & Deployment)
+🌱 Git Workflow: GitHub Flow
+🧪 Code Quality: Code Review
+📦 Distribution & Delivery
+📦 Container Registry: Docker Hub, Amazon ECR
+🗃️ Artifact Repository: Nexus
+🔨 CI/CD Pipelines: Jenkins, GitLab CI, AWS CodeBuild, GitHub Actions
+🛫 Continuous Delivery: AWS CodeDeploy
+🗂️ Source Code Management: Git, GitHub
