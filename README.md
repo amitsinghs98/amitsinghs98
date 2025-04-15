@@ -21,18 +21,24 @@ Know more about my journey: [Resume](https://drive.google.com/file/d/1rX6vYrQRdw
 ## ⚡ Technologies & Tools  
 **☁️ Cloud & Infrastructure**
 AWS (EC2, S3, IAM, VPC, Route 53, Load Balancer)
+
 **🐧 OS & Scripting**
 Linux, Bash, Shell Scripting, Python
+
 **🐳 DevOps & Automation**
 Docker, Kubernetes (K8s), Amazon ECS, Amazon EKS
 Jenkins, GitLab CI, GitHub Actions, ArgoCD
 Terraform, Ansible
+
 **🧪 Monitoring & Logging**
 Prometheus, Grafana, CloudWatch, ELK Stack
+
 **🔐 Security**
 IAM, SSH, KMS, VPN, Firewall
+
 **🗃️ Databases**
 MySQL, MongoDB, DynamoDB
+
 **🔄 DevOps Methodology**
 ✅ DevOps Practices: CI (Continuous Integration), CD (Continuous Delivery & Deployment)
 🔁 Git Workflow: GitHub Flow
